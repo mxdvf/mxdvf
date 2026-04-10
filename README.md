@@ -14,10 +14,10 @@ Reading a paper or understanding a system isn't enough - I need to know why they
 
 3. **Always take the unconventional path:** Because you either shatter a belief forced upon you or discover "why" everyone else went the other way.
 
-### Rabbit Holes
+### Threads I Pulled
 <details>
 <summary>What is time, really? (insight from Spanner paper) ⏱️</summary>
-<blockquote>1 second = time taken by 9,192,631,770 oscillations of radiation emitted by a Cesium-133 atom. (how is spanner involved? coming soon)</blockquote>
+<blockquote>1 second = time taken by 9,192,631,770 oscillations of radiation emitted by a Cesium-133 atom. (full article coming soon)</blockquote>
 </details>
 
 <details>
