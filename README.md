@@ -1,12 +1,12 @@
 ### Hey There! 👋
-I'm Mehul, a systems engineer massively enthusiastic about any system that involves more than 1 node.
+I'm Mehul, a systems engineer (and aws certified solutions architect) massively enthusiastic about any system that involves more than 1 node.
 
 20 years old and based out of India 🇮🇳. For the longest time I had been building in isolation which proved to be a fatal mistake. Now building in public and writing about what I find interesting 🔭.
 
 Connect with me: [Twitter](https://x.com/mxdvf), [Linkedin](https://www.linkedin.com/in/mxdvf/), [Email](mailto:mehulsrivastava.work@gmail.com)
 
 ### Philosophy
-Three things drive everything I do 📙
+Three things drive everything I do 🌱
 1. **Every rabbit hole has a bottom:** I just have to find it. If something seems off, I absolutely have to know what's going on.
 
 2. **Dismantle and rebuild with first principles:** I question everything. Not to be contrarian but because the "why" is always more interesting than the what. 
