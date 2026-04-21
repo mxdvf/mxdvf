@@ -5,8 +5,8 @@ I'm Mehul, a systems engineer (and aws certified solutions architect) massively 
 
 Connect with me: [Twitter](https://x.com/mxdvf), [Linkedin](https://www.linkedin.com/in/mxdvf/), [Email](mailto:mehulsrivastava.work@gmail.com)
 
-### Philosophy
-Three things drive everything I do 🌱
+### Philosophy 🌱
+Two things drive everything I do:
 <!--  1. **Every rabbit hole has a bottom:** I just have to find it. If something seems off, I absolutely have to know what's going on. -->
 
 1. **Dismantle and rebuild with first principles:** I question everything. Not to be contrarian but because the "why" is always more interesting than the what. 
@@ -23,5 +23,4 @@ Reading a paper or understanding a system isn't enough - I need to know why they
 <details>
 <summary>What even is money? (insight from Bitcoin paper) 💵</summary>
   <blockquote>It's a shared hallucination. The only reason it works is because we collectively believe it works. Think about it. (full article coming soon)</blockquote>
-</details>
--->
+</details> -->
