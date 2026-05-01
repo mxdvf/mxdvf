@@ -3,7 +3,8 @@ I'm Mehul, a systems engineer (and aws certified solutions architect) massively 
 
 20 years old and based out of India 🇮🇳. For the longest time I had been building in isolation which proved to be a fatal mistake. Now building in public and writing about what I find interesting 🔭.
 
-Connect with me: [Twitter](https://x.com/mxdvf), [Linkedin](https://www.linkedin.com/in/mxdvf/), [Email](mailto:mehulsrivastava.work@gmail.com)
+Connect with me: [Twitter](https://x.com/mxdvf), [Email](mailto:mehulsrivastava.work@gmail.com)
+<!-- [Linkedin](https://www.linkedin.com/in/mxdvf/) -->
 
 ### Philosophy 🌱
 Two things drive everything I do:
