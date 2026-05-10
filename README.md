@@ -1,7 +1,7 @@
 ### Hey There! 👋
 I'm Mehul, a systems engineer (and aws certified solutions architect) massively enthusiastic about any system that involves more than 1 node.
 
-20 years old and based out of India 🇮🇳. For the longest time I had been building in isolation which proved to be a fatal mistake. Now building in public and writing about what I find interesting 🔭.
+Based out of Hong Kong 🇭🇰. For the longest time I had been building in isolation which proved to be a fatal mistake. Now building in public and writing about what I find interesting 🔭.
 
 Connect with me: [Twitter](https://x.com/mxdvf), [Email](mailto:mehulsrivastava.work@gmail.com)
 <!-- [Linkedin](https://www.linkedin.com/in/mxdvf/) -->
