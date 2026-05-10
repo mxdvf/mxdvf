@@ -1,5 +1,5 @@
 ### Hey There! 👋
-I'm Mehul, a systems engineer (and aws certified solutions architect) massively enthusiastic about any system that involves more than 1 node.
+I'm Mehul, a systems engineer (and aws certified solutions architect) massively enthusiastic about any system that involves multiple nodes.
 
 Based out of Hong Kong 🇭🇰. For the longest time I had been building in isolation which proved to be a fatal mistake. Now building in public and writing about what I find interesting 🔭.
 
