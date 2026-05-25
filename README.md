@@ -1,6 +1,8 @@
-### Hey There! 👋
+![Banner](./banner.png)
+
+<!-- ### Hey There! 👋
 I'm Mehul. Connect with me: [Twitter](https://x.com/mxdvf), [Email](mailto:mehulsrivastava.work@gmail.com)
-<!-- [Linkedin](https://www.linkedin.com/in/mxdvf/) -->
+ [Linkedin](https://www.linkedin.com/in/mxdvf/) -->
 
 <!-- ### Philosophy 🌱
 Two things drive everything I do:
