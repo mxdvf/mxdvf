@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+<!-- ![Banner](./banner.png) -->
 
 <!-- ### Hey There! 👋
 I'm Mehul. Connect with me: [Twitter](https://x.com/mxdvf), [Email](mailto:mehulsrivastava.work@gmail.com)
