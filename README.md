@@ -1,19 +1,15 @@
 ### Hey There! 👋
-I'm Mehul, a systems engineer (and aws certified solutions architect) massively enthusiastic about any system that involves multiple nodes.
-
-Based out of Hong Kong 🇭🇰. For the longest time I had been building in isolation which proved to be a fatal mistake. Now building in public and writing about what I find interesting 🔭.
-
-Connect with me: [Twitter](https://x.com/mxdvf), [Email](mailto:mehulsrivastava.work@gmail.com)
+I'm Mehul. Connect with me: [Twitter](https://x.com/mxdvf), [Email](mailto:mehulsrivastava.work@gmail.com)
 <!-- [Linkedin](https://www.linkedin.com/in/mxdvf/) -->
 
-### Philosophy 🌱
+<!-- ### Philosophy 🌱
 Two things drive everything I do:
-<!--  1. **Every rabbit hole has a bottom:** I just have to find it. If something seems off, I absolutely have to know what's going on. -->
+1. **Every rabbit hole has a bottom:** I just have to find it. If something seems off, I absolutely have to know what's going on.
 
 1. **Dismantle and rebuild with first principles:** I question everything. Not to be contrarian but because the "why" is always more interesting than the what. 
 Reading a paper or understanding a system isn't enough - I need to know why they made every single decision they made.
 
-2. **Always take the unconventional path:** Because you either shatter a belief forced upon you or discover "why" everyone else went the other way.
+2. **Always take the unconventional path:** Because you either shatter a belief forced upon you or discover "why" everyone else went the other way. -->
 
 <!-- ### Threads I Pulled
 <details>
