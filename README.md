@@ -1,1 +1,1 @@
-![Alt Text](./banner-third-door.png)
+![Alt Text](./banner-third-door.jpg)
